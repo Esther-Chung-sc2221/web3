@@ -11201,7 +11201,7 @@ header.masthead .masthead-heading {
   .timeline > li {
     min-height: 150px;
   }
-  .timeline > li .timeline-panel {
+  .timeline > li .timeline-panel { 
     padding: 0 20px 20px;
   }
   .timeline > li .timeline-image {
@@ -11257,8 +11257,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../assets/img/map-image.png");
-  background-repeat: no-repeat;
+  background-image: url("header-bg.jpg")
   background-position: center;
 }
 section#contact .section-heading {
